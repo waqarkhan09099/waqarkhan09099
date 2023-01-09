@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Data Structures And Algorithms](https://leetcode.com/waqarkhan09099/)
 
-- 🌱 I’m currently working on [Data Structures And Algorithms](https://www.hackerrank.com/waqarkhan09099)
+- 🌱 I’m currently working on [HackerRank](https://www.hackerrank.com/waqarkhan09099)
 
 - 👯 I’m looking to collaborate on [LeetCode](https://leetcode.com/waqarkhan09099/)
 
