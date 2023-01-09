@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqarkhan09099" alt="MuhammadWaqarKhan" /></a> </p>
 
-- 🔭 I’m currently working on [Data Structures And Algorithms](https://leetcode.com/waqarkhan09099/)
 
 - 🌱 I’m currently working on [HackerRank](https://www.hackerrank.com/waqarkhan09099)
 
@@ -15,16 +14,17 @@
 
 - 💬 Ask me about **C++, data structures and algorithms**
 
-- 📫 How to reach me **waqarkhan09099@gmail.com**
+- 📫 How to reach me **floornstage@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-waqar-khan-545a381a5/](https://www.linkedin.com/in/muhammad-waqar-khan-545a381a5/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ bajwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farhan bajwa" height="30" width="40" /></a>
+<a href="https://twitter.com/floornstage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farhan bajwa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-waqar-khan-545a381a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan bajwa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16555318" height="30" width="40" /></a>
 <a href="https://leetcode.com/waqarkhan09099/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhan asghar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/waqarkhan09099" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="farhan asghar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
