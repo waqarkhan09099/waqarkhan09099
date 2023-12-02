@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waqar Khan</h1>
 <h3 align="center">A passionate full stack developer and Alexa, Dialogflow Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waqarkhan09099&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammdWaqarKhan" /> </p>
-
 - 🌱 I’m currently working on [HackerRank](https://www.hackerrank.com/waqarkhan09099)
 
 - 👯 I’m looking to collaborate on [LeetCode](https://leetcode.com/waqarkhan09099/)
