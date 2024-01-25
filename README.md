@@ -11,8 +11,4 @@
 <a href="https://www.hackerrank.com/waqarkhan09099" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="farhan asghar" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqarkhan09099&show_icons=true&locale=en&layout=compact" alt="farhan523" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqarkhan09099&show_icons=true&locale=en" alt="farhan523" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waqarkhan09099&" alt="waqarkhan09099" /></p>
