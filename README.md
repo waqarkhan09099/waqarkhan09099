@@ -11,4 +11,10 @@
 <a href="https://www.hackerrank.com/waqarkhan09099" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="waqar khan" height="30" width="40" /></a>
 </p>
 
-
+<a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
+    <img alt="https://mrousavy.com" src="./img/dino.gif" />
+  </picture>
+</a>
