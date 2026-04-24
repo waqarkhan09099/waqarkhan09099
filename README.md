@@ -6,7 +6,6 @@
 
 🇵🇰 Full Stack Developer & AI Chatbot Engineer from Pakistan
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/floornstage)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-waqar-khan-545a381a5/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/waqarkhan09099/)
